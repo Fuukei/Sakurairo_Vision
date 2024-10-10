@@ -1,4 +1,4 @@
-<svg width="80px"  height="80px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-disk">
+<svg width="80px"  height="80px" fill="var(--theme-skin-matching)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-disk">
     <g transform="translate(50,50)">
       <g ng-attr-transform="scale({{config.scale}})" transform="scale(0.6)">
         <circle cx="0" cy="0" r="50" ng-attr-fill="{{config.c1}}" fill="#F13630"></circle>
