@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'remix_social';
+  src: url('https://s.nmxc.ltd/sakurairo_vision/@2.7/display_icon/remix_iconfont/remix_social.woff2') format('woff2'),
+       url('https://s.nmxc.ltd/sakurairo_vision/@2.7/display_icon/remix_iconfont/remix_social.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "remix_social";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+  display: block;
+  text-decoration: inherit;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bili:before { content: '\e800'; } /* '' */
+.icon-discord:before { content: '\e801'; } /* '' */
+.icon-facebook:before { content: '\e802'; } /* '' */
+.icon-douyin:before { content: '\e803'; } /* '' */
+.icon-github:before { content: '\e804'; } /* '' */
+.icon-instagram:before { content: '\e805'; } /* '' */
+.icon-linkedin:before { content: '\e806'; } /* '' */
+.icon-wangyiyun:before { content: '\e807'; } /* '' */
+.icon-mail:before { content: '\e808'; } /* '' */
+.icon-qq:before { content: '\e809'; } /* '' */
+.icon-steam:before { content: '\e80a'; } /* '' */
+.icon-telegram:before { content: '\e80b'; } /* '' */
+.icon-twitter:before { content: '\e80c'; } /* '' */
+.icon-wechat:before { content: '\e80d'; } /* '' */
+.icon-xiaohongshu:before { content: '\e80e'; } /* '' */
+.icon-sina:before { content: '\e80f'; } /* '' */
+.icon-youtube:before { content: '\e810'; } /* '' */
+.icon-zhihu:before { content: '\e811'; } /* '' */
